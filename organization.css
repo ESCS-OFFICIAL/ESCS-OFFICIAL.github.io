@@ -1,0 +1,34 @@
+/* COMMON */
+html {
+    overflow-x: hidden;
+}
+
+/* NAVBAR */
+.nav-item a {
+    color: white;
+}
+
+.collapse.navbar-collapse {
+    margin-left: 100vh;
+}
+
+body > section:nth-child(2) > nav > div > img:hover {
+  transform: translateY(180deg);
+  transition: 1s;
+}
+
+/* MODALS */
+
+/* HERO */
+.row img {
+    width: 200px;
+}
+
+div.col {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.BPH p {
+    font-size: 14px;
+}
